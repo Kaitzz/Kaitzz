@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Cornelia 👋
 
-<!--
-**Kaitzz/Kaitzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student building full-stack web applications and applied AI products.
 
-Here are some ideas to get you started:
+**TypeScript · React · Next.js · Node.js · Python · PostgreSQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**[LeetIn](https://github.com/Kaitzz/leetin)** — An active-recall coding practice platform built with Next.js, React, TypeScript, PostgreSQL, and Prisma.
+
+**[MilkyAi](https://github.com/Kaitzz/MilkyAi-bilibili)** — A production AI video-to-notes service serving a 38K+ Bilibili community, built with Python, PostgreSQL, RAG, AWS SES, and Docker.
+
+[Portfolio](https://corneliazhang.me)
